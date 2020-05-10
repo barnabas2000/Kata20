@@ -32,3 +32,9 @@ The idea is to build up four piles of cards in their suits on the foundation are
 * The top card of the stoke can be turned over and placed on the discard pile.
 The game is won when all cards are moved to the foundation, and lost when the only remaining moves form an endless loop.
 The game is simple to play, but the strategy isn’t immediately obvious. For example, is it always a good idea to move a card from the tableau to the foundation, or is it sometimes better to leave it there to give yourself something to build down on? Is it a good idea to make a move which leaves a tableau pile empty if you don’t immediately have a King to move into the gap? If you have two possible moves which will result in exposing a new tableau card, should you expose the one on the longest or shortest tableau?
+
+## The second part of the kata
+
+* Come up with an infrastructure so you can have the computer deal and play games of Klondike.
+Use that infrastructure to experiment with strategies to see if you can increase the number of times you win (perhaps you could tabulate * the number of times the machine wins a random set of 1,000 games for each strategy you try).
+
