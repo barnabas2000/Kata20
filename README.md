@@ -21,4 +21,14 @@ The idea is to build up four piles of cards in their suits on the foundation are
 
 * If a move leaves a tableau pile empty, an exposed King at the top of a tableau or discard pile, or a sequence starting with a King on a tableau pile, may be moved to it.
 
+## So, in the game pictured about, a possible first set of moves might be:
 
+* Move the Queen of Diamonds onto the King of Clubs.
+
+* This leaves the first pile in the tableau empty, so the combined King/Queen can be moved to it, and the card originally beneath the King is turned over.
+
+* The Six of Spades can be moved on to the Seven of Diamonds, and the card beneath the six revealed.
+
+* The top card of the stoke can be turned over and placed on the discard pile.
+The game is won when all cards are moved to the foundation, and lost when the only remaining moves form an endless loop.
+The game is simple to play, but the strategy isn’t immediately obvious. For example, is it always a good idea to move a card from the tableau to the foundation, or is it sometimes better to leave it there to give yourself something to build down on? Is it a good idea to make a move which leaves a tableau pile empty if you don’t immediately have a King to move into the gap? If you have two possible moves which will result in exposing a new tableau card, should you expose the one on the longest or shortest tableau?
